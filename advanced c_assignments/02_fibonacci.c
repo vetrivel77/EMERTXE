@@ -1,6 +1,4 @@
 /*
-name: vetrivel.p
-date:08/06/2022
 description: A2 - WAP to generate positive Fibonacci numbers
 sample i/p and o/p:
 test casec 1:
@@ -26,7 +24,6 @@ Test Case 4:
 Enter a number: -21
 
 Invalid input
-
 */
 
 #include<stdio.h>
