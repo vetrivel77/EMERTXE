@@ -1,6 +1,4 @@
 /*
-name: vetrivel.p
-date:08/06/2022
 description: A3 - WAP to generate negative Fibonacci numbers
 sample i/p and o/p:
 
