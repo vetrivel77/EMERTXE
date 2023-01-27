@@ -1,0 +1,6 @@
+a.out
+c
+client.c
+f1.txt
+s
+server.c

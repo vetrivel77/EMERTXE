@@ -1,0 +1,4 @@
+fibonacci series are: 
+0 1 1 2 3 5 8 13
+Prime Numbers are: 
+2 3 5 7 11 13 
